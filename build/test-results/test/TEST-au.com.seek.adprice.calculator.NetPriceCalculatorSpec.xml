@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="au.com.seek.adprice.calculator.NetPriceCalculatorSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-01-16T19:19:49" hostname="Aruls-MacBook-Pro.local" time="0.07">
-  <properties/>
-  <testcase name="Should return net value for given discount rule" classname="au.com.seek.adprice.calculator.NetPriceCalculatorSpec" time="0.056"/>
-  <testcase name="Should return net value for given deal rule" classname="au.com.seek.adprice.calculator.NetPriceCalculatorSpec" time="0.01"/>
-  <testcase name="Should return net value for given deals" classname="au.com.seek.adprice.calculator.NetPriceCalculatorSpec" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
