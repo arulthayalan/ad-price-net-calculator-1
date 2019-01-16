@@ -6,6 +6,3 @@
 
 ## Requirement to run
      JRE 1.8
-
-## To start application
-    bin/share-calculator
