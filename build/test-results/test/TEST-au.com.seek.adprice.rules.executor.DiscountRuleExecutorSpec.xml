@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="au.com.seek.adprice.rules.executor.DiscountRuleExecutorSpec" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-01-16T19:19:50" hostname="Aruls-MacBook-Pro.local" time="0.034">
+  <properties/>
+  <testcase name="Should return null when product list is null" classname="au.com.seek.adprice.rules.executor.DiscountRuleExecutorSpec" time="0.001"/>
+  <testcase name="Should return [] when product list is empty" classname="au.com.seek.adprice.rules.executor.DiscountRuleExecutorSpec" time="0.001"/>
+  <testcase name="Should return 1 when price is null" classname="au.com.seek.adprice.rules.executor.DiscountRuleExecutorSpec" time="0.0"/>
+  <testcase name="Should return 1 when price is not instance" classname="au.com.seek.adprice.rules.executor.DiscountRuleExecutorSpec" time="0.003"/>
+  <testcase name="Should return new price in product" classname="au.com.seek.adprice.rules.executor.DiscountRuleExecutorSpec" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

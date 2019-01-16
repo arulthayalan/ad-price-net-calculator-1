@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="au.com.seek.adprice.CustomerCheckoutSpec" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-01-16T19:19:49" hostname="Aruls-MacBook-Pro.local" time="0.02">
+  <properties/>
+  <testcase name="Should return total price for given default price for a customer" classname="au.com.seek.adprice.CustomerCheckoutSpec" time="0.013"/>
+  <testcase name="Should return total price rule for customer with deal price rule" classname="au.com.seek.adprice.CustomerCheckoutSpec" time="0.002"/>
+  <testcase name="Should return total price rule for customer with discount price rule" classname="au.com.seek.adprice.CustomerCheckoutSpec" time="0.002"/>
+  <testcase name="Should return total price rule for customer with deal and discount price rule" classname="au.com.seek.adprice.CustomerCheckoutSpec" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
